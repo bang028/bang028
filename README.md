@@ -1,9 +1,9 @@
 <h1 align="center">Hallo, Ich bin bang028</h1>
-<p align="center">Das ist mein Github Profil! Hier ist mein Technologie Stack:</p>
+<p align="center">Ich arbeite Oft mit Lua Scripts und erstelle Custom FiveM Resourcen! Sachen wie 1v1 Systems, HUD Designs, Fertige UI Designs etc. </p>
 
 ---
 
-### Mein Stack:
+### Hier ist Mein Stack:
 
 | **Category**         | **Technologies**                                                                                                                                              |
 |----------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
