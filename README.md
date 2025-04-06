@@ -1,9 +1,9 @@
-<h1 align="center">Hallo, Ich bin [Your Name]</h1>
+<h1 align="center">Hallo, Ich bin bang028</h1>
 <p align="center">Das ist mein Github Profil! Hier ist mein Technologie Stack:</p>
 
 ---
 
-### 🧰 My Stack
+### Mein Stack:
 
 | **Category**         | **Technologies**                                                                                                                                              |
 |----------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
