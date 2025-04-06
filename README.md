@@ -20,3 +20,10 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bang028&label=Besuche&color=yellow" alt="Profil-Besuche"/>
 </p>
+
+---
+
+### 📫 Kontakt
+
+Bei Fragen oder Projektanfragen kannst du mich jederzeit per E-Mail erreichen:  
+📧 **yunushyper2@gmail.com**
