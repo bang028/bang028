@@ -1,11 +1,11 @@
 <h1 align="center">Hallo, Ich bin bang028</h1>
-<p align="center">Ich arbeite oft mit Lua-Skripten und erstelle Custom FiveM Resourcen! Sachen wie 1v1-Systems, HUD-Designs, fertige UI-Designs etc.</p>
+<p align="center">Ich arbeite oft im Web Developing bereich, wie .html .css .js und UI/UX Designs für Fivem Server.</p>
 
 ---
 
 ### Hier ist mein Stack:
 
-| **Kategorie**         | **Technologien**                                                                                                                                              |
+| **Kategorie**         | **Tech**                                                                                                                                                       |
 |------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Sprachen**           | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Lua](https://img.shields.io/badge/Lua-000080?logo=lua&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white) |
 | **Anwendung & Daten**  | ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) ![Styled Components](https://img.shields.io/badge/Styled--Components-DB7093?logo=styled-components&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?logo=insomnia&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white) ![Tidyverse](https://img.shields.io/badge/Tidyverse-8D6CAB?logo=r&logoColor=white) |
