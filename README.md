@@ -1,6 +1,3 @@
-<h1 align="center">Oh nee</h1>
-
----
 
 ### Stack:
 
